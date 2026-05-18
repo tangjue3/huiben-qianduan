@@ -7,9 +7,7 @@
         <!-- Brand column -->
         <div class="md:col-span-1">
           <div class="flex items-center gap-2.5 mb-3">
-            <div class="w-9 h-9 rounded-lg bg-gradient-to-br from-[var(--color-jade)] to-[var(--color-cyan-glow)] flex items-center justify-center">
-              <span class="text-[var(--color-bg-base)] font-bold text-base font-serif">慧</span>
-            </div>
+            <img src="/476B59C6D963AD560A1B0AA2D1CEAD30.png" alt="慧植本草" class="w-9 h-9 rounded-lg" />
             <div>
               <h3 class="text-base font-bold text-white font-serif tracking-wider">慧植本草</h3>
               <p class="text-[10px] text-[var(--color-text-secondary)] tracking-[0.15em]">方寸灵畦</p>
@@ -92,7 +90,7 @@ const quickLinks = [
   { path: '/', label: '首页' },
   { path: '/monitor', label: '在线监测' },
   { path: '/product', label: '产品简介' },
-  { path: '/herbspirit', label: '本草精灵' },
+  { path: '/herbspirit', label: '百草通灵' },
   { path: '/contact', label: '联系我们' },
 ]
 </script>

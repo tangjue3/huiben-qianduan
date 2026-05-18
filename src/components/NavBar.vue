@@ -7,9 +7,7 @@
       <!-- Logo -->
       <router-link to="/" class="flex items-center gap-3 group">
         <div class="relative">
-          <div class="w-10 h-10 rounded-lg bg-gradient-to-br from-[var(--color-jade)] to-[var(--color-cyan-glow)] flex items-center justify-center shadow-[0_0_15px_rgba(0,255,204,0.3)] group-hover:shadow-[0_0_25px_rgba(0,255,204,0.5)] transition-shadow duration-300">
-            <span class="text-[var(--color-bg-base)] font-bold text-lg font-serif">慧</span>
-          </div>
+          <img src="/476B59C6D963AD560A1B0AA2D1CEAD30.png" alt="慧植本草" class="w-10 h-10 rounded-lg shadow-[0_0_15px_rgba(0,255,204,0.3)] group-hover:shadow-[0_0_25px_rgba(0,255,204,0.5)] transition-shadow duration-300" />
           <div class="absolute -inset-1 rounded-lg bg-gradient-to-br from-[var(--color-cyan-glow)]/0 to-[var(--color-jade)]/0 group-hover:from-[var(--color-cyan-glow)]/20 group-hover:to-[var(--color-jade)]/20 transition-all duration-500 -z-10 blur-sm"></div>
         </div>
         <div class="hidden sm:block">
@@ -96,7 +94,7 @@ const navItems = [
   { path: '/', label: '首页' },
   { path: '/monitor', label: '在线监测' },
   { path: '/product', label: '产品简介' },
-  { path: '/herbspirit', label: '本草精灵' },
+  { path: '/herbspirit', label: '百草通灵' },
   { path: '/contact', label: '联系我们' },
 ]
 
